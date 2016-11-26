@@ -7,6 +7,8 @@ program in a turbo pascal equivalent.  I hope }
 procedure welcome;
 begin
   Writeln('Welcome to the BitGrid simulator, this is the simplest possible implementation,');
+  Writeln('Here we simulate a single cell of the bitgrid, which is a simple look up table,');
+  Writeln('the index of which comes from the surrounding 4 neighbors outputs.');
 end;
 
 function getboolean : boolean;

@@ -9,12 +9,21 @@
         <Filename Value="bitgrid.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="4"/>
-        <CursorPos X="25" Y="21"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="38"/>
+        <CursorPos X="50" Y="54"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit0>
     </Units>
-    <JumpHistory HistoryIndex="-1"/>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="bitgrid.lpr"/>
+        <Caret Line="53" Column="11" TopLine="36"/>
+      </Position1>
+      <Position2>
+        <Filename Value="bitgrid.lpr"/>
+        <Caret Line="43" Column="7" TopLine="34"/>
+      </Position2>
+    </JumpHistory>
   </ProjectSession>
 </CONFIG>
